@@ -6,7 +6,7 @@ fontTools[ufo,lxml,unicode]==4.0.2
 lxml==4.4.1
 opentype-sanitizer==8.0.0.post2
 protobuf==3.10.0
-requests==2.22.0
+requests==2.23.0
 ttfautohint-py==0.4.3
 ufolint==0.4.1
 -e .
