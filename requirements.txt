@@ -1,7 +1,7 @@
 --index-url https://pypi.python.org/simple/
 beautifulsoup4==4.8.1
 defcon==0.6.0
-font-v==0.7.1
+font-v==1.0.2
 fontTools[ufo,lxml,unicode]==4.0.2
 lxml==4.4.1
 opentype-sanitizer==8.0.0.post2
