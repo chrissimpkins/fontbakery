@@ -8,5 +8,5 @@ opentype-sanitizer==8.0.0.post2
 protobuf==3.12.2
 requests==2.23.0
 ttfautohint-py==0.4.3
-ufolint==1.0.0
+ufolint==1.0.1
 -e .
