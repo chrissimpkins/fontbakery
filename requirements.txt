@@ -7,7 +7,7 @@ lxml==4.5.2
 opentype-sanitizer==8.1.0
 pip-api==0.0.14
 protobuf==3.13.0
-requests==2.24.0
+requests==2.25.0
 ttfautohint-py==0.4.3
 ufolint==1.0.1
 -e .
