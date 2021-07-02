@@ -14,7 +14,7 @@ requests==2.25.1
 ufolint==1.2.0
 unidecode==1.2.0
 beziers==0.3.1
-cmarkgfm==0.5.3
+cmarkgfm==0.6.0
 vharfbuzz==0.1.1
 collidoscope==0.0.6
 stringbrewer==0.0.1
